@@ -32,4 +32,9 @@
 <li><code>make run</code></li>
 <br>
 <br>
-<img src="https://img.shields.io/static/v1?label=discussions&message=%20&logo=whatsapp">
+<p>
+    <a href="https://chat.whatsapp.com/GxUnM7xAJyU7A0YYcjpnL0">
+          <li><img src="https://img.shields.io/static/v1?label=discussions&message=%20&logo=whatsapp"></li></a>
+    <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
+    <li><img src="https://img.shields.io/static/v1?label=youtube&message=%20&logo=youtube&logoColor=red"></li></a>
+</p>
