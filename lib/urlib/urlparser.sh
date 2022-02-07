@@ -3,7 +3,7 @@
 
 system.get.all(){
 	var url : "${@}"
-	
+	# regex substitution
 	var __parse__ : ${url#*//}
 	var __parse__ : ${url#*@}
 	var __parse__ : ${url#*//}
