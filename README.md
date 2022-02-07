@@ -19,13 +19,17 @@
             <li>2. cheker domain</li><br>
 </p>
 
-<h2>cara menggunakan nya</h2>
+<br>
 
-`apt-get update`
-`apt-get full-upgrade`
-`apt-get install git`
-`git clone https://github.com/Bayu12345677/Stress_grab`
-`cd Stress_grab`
-`make install`
-`make run`
+<h2>cara menggunakan nya</h2><br>
 
+<li><code>apt-get update</code></li>
+<li><code>apt-get full-upgrade</code></li>
+<li><code>apt-get install git</code></li>
+<li><code>git clone https://github.com/Bayu12345677/Stress_grab/</li></code>
+<li><code>cd Stress_grab</li></code>
+<li><code>make install</code></li>
+<li><code>make run</code></li>
+<br>
+<br>
+<img src="https://img.shields.io/static/v1?label=discussions&message=%20&logo=whatsapp">
