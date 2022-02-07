@@ -26,7 +26,8 @@
 <li><code>apt-get update</code></li>
 <li><code>apt-get full-upgrade</code></li>
 <li><code>apt-get install git</code></li>
-<li><code>git clone https://github.com/Bayu12345677/Stress_grab/</li></code>
+<pre><code>
+git clone https://github.com/Bayu12345677/Stress_grab/</code></pre>
 <li><code>cd Stress_grab</li></code>
 <li><code>make install</code></li>
 <li><code>make run</code></li>
