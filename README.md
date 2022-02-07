@@ -16,7 +16,7 @@
 <p>
     fitur :<br>
             <li>1. auto grab</li>
-            <li>2. cheker domain</li><br>
+            <li>2. checker domain</li><br>
 </p>
 
 <br>
